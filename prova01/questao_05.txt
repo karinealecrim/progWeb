@@ -1,0 +1,12 @@
+Questão 05 -  Prog. Web
+"Francisca Karine S. Alecrim - 21550193"
+
+a) O que é o diretório de trabalho?
+
+É a "pasta" que contém os arquivos(dados) utilizados para a execução/funcionamento do código.
+
+
+b) Qual é a diferença entre o repositório local e o repositório remoto?
+
+O repositório local tem acesso mais rápido e independe de conexão, já o remoto depende de uma conexão,
+com acesso mais lento e pode não estar atualizado.

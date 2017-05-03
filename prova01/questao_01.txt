@@ -1,0 +1,15 @@
+Questão 01 -  Prog. Web
+"Francisca Karine S. Alecrim - 21550193"
+Obs.: Os erros não estão em ordem de leitura do código.
+
+Erro 1:
+Na linha 04 o comentário foi feito de forma errada, deve-se utilizar o formato <!--comentário-->.
+
+Erro 2:
+Na linha 17 <strong> não foi finalizada com </strong>.
+
+Erro 3:
+Na linha 11 a cor de fundo(background-color) está inicializada de forma errada(p#para:blue;).
+
+Erro 4:
+Ausência de <body></body>

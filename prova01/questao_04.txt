@@ -1,0 +1,7 @@
+Questão 04 -  Prog. Web
+"Francisca Karine S. Alecrim - 21550193"
+
+"Closure" é uma função que faz referência a uma variável independente já criada em outro ambiente.
+
+Neste caso, closure vai fazer referência a y já existente em um comando já definido, que vai retornar 
+um valor diferente para cada {console.log(x + y + (++baz));} executado por causa da variável já existente.

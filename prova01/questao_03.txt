@@ -1,0 +1,8 @@
+Questão 03 -  Prog. Web
+"Francisca Karine S. Alecrim - 21550193"
+
+<p>Estou aprendendo{...} .</p>
+
+<span class="cl1" title="css">CSS</span>
+
+<p class="cl1">Esta prova está mole!</p>
