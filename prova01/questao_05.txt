@@ -10,3 +10,6 @@ b) Qual é a diferença entre o repositório local e o repositório remoto?
 
 O repositório local tem acesso mais rápido e independe de conexão, já o remoto depende de uma conexão,
 com acesso mais lento e pode não estar atualizado.
+
+Nota: 0.4
+Logs não reportados, e conceitos com erros.

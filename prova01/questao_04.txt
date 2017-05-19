@@ -5,3 +5,6 @@ Questão 04 -  Prog. Web
 
 Neste caso, closure vai fazer referência a y já existente em um comando já definido, que vai retornar 
 um valor diferente para cada {console.log(x + y + (++baz));} executado por causa da variável já existente.
+
+Nota: 0.6
+Explicação de closure com inconsistências, e código descrito de forma errada.

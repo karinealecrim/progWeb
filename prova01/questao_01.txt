@@ -13,3 +13,7 @@ Na linha 11 a cor de fundo(background-color) está inicializada de forma errada(
 
 Erro 4:
 Ausência de <body></body>
+
+Nota: 2.0
+Todos os erros foram reportados corretamente.
+

@@ -6,3 +6,6 @@ Questão 03 -  Prog. Web
 <span class="cl1" title="css">CSS</span>
 
 <p class="cl1">Esta prova está mole!</p>
+
+Nota: 0.0
+Seletores incorretos.
